@@ -1,4 +1,4 @@
-# Top UK YouTubers 2024 — Data Analysis Project
+# Top UK YouTubers 2024 - Data Analysis Project
 
 ## 📋 Table of Contents
 - [Objective](#objective)
@@ -447,13 +447,13 @@ Key insights from the analysis:
 1. **NoCopyrightSounds, Dan Rhodes and DanTDM** are the channels with the most subscribers in the UK
 2. **GRM Daily, Man City and Yogscast** are the channels with the most videos uploaded
 3. **DanTDM, Dan Rhodes and Mister Max** are the channels with the most views
-4. **Entertainment channels** are most useful for broader reach — the channels posting consistently and generating the most engagement are focused on entertainment and music
+4. **Entertainment channels** are most useful for broader reach - the channels posting consistently and generating the most engagement are focused on entertainment and music
 
 ---
 
 ## 💡 Recommendations
 
-1. **Dan Rhodes** is the best YouTube channel to collaborate with if the goal is to **maximize visibility** — this channel has the most YouTube subscribers in the UK
+1. **Dan Rhodes** is the best YouTube channel to collaborate with if the goal is to **maximize visibility** - this channel has the most YouTube subscribers in the UK
 2. Although **GRM Daily, Man City and Yogscast** are regular publishers on YouTube, collaborating with them within current budget caps may not be worth the effort, as the potential ROI is significantly lower compared to other channels
 3. **Mister Max** is the best YouTuber to collaborate with for **maximizing reach**, but collaborating with **DanTDM and Dan Rhodes** may be better long-term options given their large subscriber bases and consistently high view counts
 4. The **top 3 channels** to form collaborations with are **NoCopyrightSounds, DanTDM and Dan Rhodes**, as they attract the most consistent engagement
@@ -484,7 +484,7 @@ Based on the analysis, the **recommended primary partner is Dan Rhodes** for a l
 
 ## ✅ Conclusion
 
-This analysis provides a clear, data-driven framework for selecting the right UK YouTube influencers for marketing partnerships. By evaluating channels across subscribers, views, engagement, and projected ROI — rather than popularity alone — the marketing team can make confident, high-return decisions on where to invest their influencer budget.
+This analysis provides a clear, data-driven framework for selecting the right UK YouTube influencers for marketing partnerships. By evaluating channels across subscribers, views, engagement, and projected ROI - rather than popularity alone - the marketing team can make confident, high-return decisions on where to invest their influencer budget.
 
 ---
 
