@@ -339,8 +339,7 @@ RETURN SubscriberEngagementRate
 | 9 | Sidemen | 21.00 |
 | 10 | Ali-A | 18.90 |
 
-![Top 10 YouTubers](https://github.com/Sancti19/Sanctiblaise.github.io/blob/main/assets%20/images/Power%20BI%20Desktop%2009_03_2026%2016_27_07.png
-)
+![Top 10 YouTubers](assets /images/PowerBI_Desktop.png)
 
 #### 2. Top 3 Channels by Videos Uploaded
 
