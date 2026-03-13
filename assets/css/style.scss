@@ -1,1 +1,27 @@
+---
+---
 
+@import "{{ site.theme }}";
+
+/* Custom Font */
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-size: 16px;
+  color: #24292e;
+}
+
+/* Change ALL headings to black */
+h1, h2, h3, h4, h5, h6 {
+  color: #000000 !important;
+  font-family: 'Segoe UI', Arial, sans-serif;
+  font-weight: 700;
+}
+
+/* Section dividers */
+h2 {
+  border-bottom: 2px solid #e1e4e8;
+  padding-bottom: 8px;
+}
+```
+
+---
