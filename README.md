@@ -93,8 +93,8 @@ Before building the dashboard, a conceptual layout was planned to determine whic
 6. Which 3 channels have the highest subscriber engagement rate per video uploaded?
 
 ### Dashboard Mockup
-![Dashboard Mockup](https://github.com/Sancti19/Sanctiblaise.github.io/blob/main/assets%20/images/dashboard_mockup.png
-)
+![Dashboard Mockup](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/dashboard_mockup.png)
+
 Data visuals used in the dashboard include:
 
 - 📋 Table
@@ -193,8 +193,7 @@ FROM
     view_uk_youtubers_2024;
 ```
 ✅ Result: **100 rows** — as expected
-![Row Count Check](https://github.com/Sancti19/Sanctiblaise.github.io/blob/main/assets%20/images/Row_Count_YT.png
-)
+![Row Count](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/Row_Count_YT.png)
 
 #### 2. Column Count / Data Type Check
 ```sql
@@ -216,8 +215,7 @@ WHERE
 | total_views | bigint |
 
 ✅ All data types are appropriate.
-![Column Count / Data Type Check](https://github.com/Sancti19/Sanctiblaise.github.io/blob/main/assets%20/images/ColumnCheck.png
-)
+![Column Check](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/ColumnCheck.png)
 
 #### 3. Duplicate Check
 ```sql
@@ -232,7 +230,7 @@ HAVING
     COUNT(*) > 1
 ```
 ✅ No duplicates found.
-![Duplicate Check](https://github.com/Sancti19/Sanctiblaise.github.io/blob/main/assets%20/images/Duplicate.png)
+![Duplicate](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/Duplicate.png)
 
 ---
 
@@ -260,8 +258,7 @@ VAR TotalSubscribers = DIVIDE(SumofSubscribers, millions)
 
 RETURN TotalSubscribers
 ```
-![DAX- Total Subscribers](https://github.com/Sancti19/Sanctiblaise.github.io/blob/main/assets%20/images/Total%20Subscribers%20PBI.png
-)
+![Total Subscribers](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/Total%20Subscribers%20PBI.png)
 
 #### 2. Total Videos
 ```dax
@@ -270,7 +267,7 @@ VAR TotalVideos = SUM('youtuber_db view_uk_youtubers_2024'[total_videos])
 
 RETURN TotalVideos
 ```
-![DAX- Total Videos](https://github.com/Sancti19/Sanctiblaise.github.io/blob/main/assets%20/images/Total%20videos.png)
+![Total Videos](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/Total%20videos.png)
 
 #### 3. Total Views (B)
 ```dax
@@ -292,7 +289,7 @@ VAR FinalViewsPerVideo = DIVIDE(Avg_views_per_video, 1000000, BLANK())
 
 Return FinalViewsPerVideo
 ```
-![DAX- Average Views Per Video](https://github.com/Sancti19/Sanctiblaise.github.io/blob/main/assets%20/images/Average%20views%20per%20video.png)
+![Average Views Per Video](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/Average%20views%20per%20video.png)
 
 #### 5. Views per Subscriber
 ```dax
@@ -303,8 +300,7 @@ VAR ViewsPerSubscribers = DIVIDE(totalviews, totalsubscribers, BLANK())
 
 RETURN ViewsPerSubscribers
 ```
-![DAX- Views Per Subscriber](https://github.com/Sancti19/Sanctiblaise.github.io/blob/main/assets%20/images/ViewPerSubscriberPBI.png
-)
+![Views Per Subscriber](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/ViewPerSubscriberPBI.png)
 
 #### 6. Subscriber Engagement Rate
 ```dax
@@ -315,8 +311,8 @@ VAR SubscriberEngagementRate = DIVIDE(SumofSubscribers, SumOfVideos, BLANK())
 
 RETURN SubscriberEngagementRate
 ```
-![DAX- Subscriber Engagement Rate](https://github.com/Sancti19/Sanctiblaise.github.io/blob/main/assets%20/images/Engagement%20per%20subscriber.png
-)
+![Engagement Per Subscriber](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/Engagement%20per%20subscriber.png)
+
 
 ---
 
