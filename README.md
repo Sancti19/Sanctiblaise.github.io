@@ -289,7 +289,7 @@ VAR FinalViewsPerVideo = DIVIDE(Avg_views_per_video, 1000000, BLANK())
 
 Return FinalViewsPerVideo
 ```
-![Average Views Per Video](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/Average%20views%20per%20video.png)
+![Average Views Per Video](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/Average_views_per_video.png)
 
 #### 5. Views per Subscriber
 ```dax
@@ -311,7 +311,7 @@ VAR SubscriberEngagementRate = DIVIDE(SumofSubscribers, SumOfVideos, BLANK())
 
 RETURN SubscriberEngagementRate
 ```
-![Engagement Per Subscriber](assets /images/Engagement_per_subscriber.png)
+![Engagement Per Subscriber](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/Engagement_per_subscriber.png)
 
 
 ---
