@@ -192,7 +192,7 @@ SELECT
 FROM
     view_uk_youtubers_2024;
 ```
-✅ Result: **100 rows** — as expected
+✅ Result: **100 rows** - as expected
 ![Row Count](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/Row_Count_YT.png)
 
 #### 2. Column Count / Data Type Check
@@ -335,6 +335,7 @@ RETURN SubscriberEngagementRate
 | 9 | Sidemen | 21.00 |
 | 10 | Ali-A | 18.90 |
 
+![PowerBI Desktop](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/PowerBI_Desktop.png)
 ![PowerBI Desktop](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/PowerBI_Desktop.png)
 
 #### 2. Top 3 Channels by Videos Uploaded
