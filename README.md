@@ -311,7 +311,7 @@ VAR SubscriberEngagementRate = DIVIDE(SumofSubscribers, SumOfVideos, BLANK())
 
 RETURN SubscriberEngagementRate
 ```
-![Engagement Per Subscriber](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/Engagement%20per%20subscriber.png)
+![Engagement Per Subscriber](assets /images/Engagement_per_subscriber.png)
 
 
 ---
