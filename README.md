@@ -336,7 +336,7 @@ RETURN SubscriberEngagementRate
 | 10 | Ali-A | 18.90 |
 
 ![PowerBI Desktop](https://raw.githubusercontent.com/Sancti19/Top_UK_YouTubers_24/main/assets/images/PowerBI_Desktop.png)
-![PowerBI Desktop](https://github.com/Sancti19/Top_UK_YouTubers_24/blob/f0ca8d0259ff08865c770669fef464cca503a385/assets%20/images/PowerBI_Desktop.png)
+
 #### 2. Top 3 Channels by Videos Uploaded
 
 | Rank | Channel Name | Videos |
